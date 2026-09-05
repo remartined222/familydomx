@@ -1,0 +1,32 @@
+{
+  "name": "Family Do!",
+  "short_name": "Family Do",
+  "description": "Calendario, planes, ahorro, tareas con puntos y tiempo de calidad para toda la familia.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F4FC",
+  "theme_color": "#6C4BD8",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
